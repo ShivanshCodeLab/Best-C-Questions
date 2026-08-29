@@ -1,0 +1,1 @@
+// print all armstrong numbers between 1 and 500.
